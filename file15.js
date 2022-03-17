@@ -5,7 +5,7 @@ else if
 else
  */
 
-let temInDegree = 30;
+let temInDegree = 50;
 
 if (temInDegree < 0) {
     console.log("Extramely Cold Outside");
