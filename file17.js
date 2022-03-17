@@ -93,13 +93,14 @@ total = 45 + 10;
 console.log(total); */
 
 let Num = 10;
-let total = 0;
+/* let total = 0;
 let i = 0;
 while (i <= 10) {
     total = total + i;
     i++;
 }
+console.log(total); */
+
+let total =  (Num*(Num+1))/2;
 console.log(total);
-
-
 
